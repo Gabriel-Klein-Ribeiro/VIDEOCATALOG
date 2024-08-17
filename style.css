@@ -1,0 +1,58 @@
+body {
+    color: red;
+    background: black;
+    margin: 0;
+    font-family: "Russo One", sans-serif;
+    margin-bottom: 50px;
+}
+
+header {
+    border: solid 12px black;
+    padding: 6;
+    font-size: 168;
+    color: lightseagreen
+}
+
+.chamada {
+    background: lightseagreen;
+    padding-bottom: 60px;
+    padding-top: 60px;
+    display:flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 1%;
+}
+
+h1 {
+    font-size: 48px;
+}
+img {
+    height: 230px;
+}
+
+.categoria-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 32px;
+}
+
+.categoria {
+    padding-left: 53px;
+    padding-right: 53px;
+    margin-top: 25px;
+}
+
+.categoria-videos img  {
+    opacity: 1.0;
+}
+
+.categoria-videos img:hover {
+    opacity: 0.5;
+    border: 1px solid white;
+}
+
+.categoria h2 {
+    color: lightseagreen;
+}
