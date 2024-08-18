@@ -1,1 +1,1 @@
-Em razão de alguma falha que não consegui entender e muito menor resolver, o link de acesso disponibilizado não encaminha diretamente para o "site". Por isso, para acessar utilize o URL: https://gabriel-klein-ribeiro.github.io/VIDEOCATALOG/Index.html
+Em razão de uma falha que não consegui entender e muito menoS resolver, o link de acesso tradicional aqui disponibilizado não é funcional. Por isso, para acessar o "site", utilize o URL: https://gabriel-klein-ribeiro.github.io/VIDEOCATALOG/Index.html
